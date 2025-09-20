@@ -1,4 +1,4 @@
-# Catálogo de Productos API
+# Catálogo de Productos API SUPABASE
 Una API REST robusta desarrollada con Node.js y Express para la gestión de productos con generación automática de catálogos en PDF.
 Características
 -API completa para consulta de productos desde PostgreSQL con supabase
