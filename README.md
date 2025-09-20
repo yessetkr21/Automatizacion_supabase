@@ -9,7 +9,7 @@ Características
 -Manejo robusto de errores y validación de datos
 # Instalación
 Prerrequisitos
-Node.js v14 o superior
+Node.js v14 o superiorNNNNNNNNNNN
 PostgreSQL v12 o superior
 npm o yarn
 # Configuración
